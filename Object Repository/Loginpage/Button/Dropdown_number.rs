@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_number</name>
+   <tag></tag>
+   <elementGuidId>72c83ccb-9fb3-4667-85d6-f4da989cf4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[2]/div/div[1]/div[2]/div/form/div[1]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#drop-country</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

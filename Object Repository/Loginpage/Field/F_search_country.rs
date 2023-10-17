@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>F_search_country</name>
+   <tag></tag>
+   <elementGuidId>9f941995-f1e5-4038-9dbe-995baa97a1c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[2]/div/div[1]/div[1]/div[1]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//*[@id=&quot;search-type&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

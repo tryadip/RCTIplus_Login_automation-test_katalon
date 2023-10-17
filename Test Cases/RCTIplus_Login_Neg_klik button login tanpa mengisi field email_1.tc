@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCTIplus_Login_Neg_klik button login tanpa mengisi field email_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6b43ccf-debd-4798-9948-f03fe6a4bc4e</testCaseGuid>
+</TestCaseEntity>
